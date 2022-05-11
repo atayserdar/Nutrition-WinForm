@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nutrition.UI", "Nutrition.UI\Nutrition.UI.csproj", "{A5EF07EB-E16B-4C37-8980-99C5A86BBB63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nutrition.BusinessLayer", "Nutrition.BusinessLayer\Nutrition.BusinessLayer.csproj", "{40F41732-D6DA-4E70-8BD5-2A64FE60C33E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nutrition.DataAccessLayer", "Nutrition.DataAccessLayer\Nutrition.DataAccessLayer.csproj", "{B32D934B-A1B6-43A9-B00E-EF1E686435EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nutrition.Domain", "Nutrition.Domain\Nutrition.Domain.csproj", "{7BEF57CD-73CE-485B-9D26-12D5AF516EFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5EF07EB-E16B-4C37-8980-99C5A86BBB63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5EF07EB-E16B-4C37-8980-99C5A86BBB63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5EF07EB-E16B-4C37-8980-99C5A86BBB63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5EF07EB-E16B-4C37-8980-99C5A86BBB63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40F41732-D6DA-4E70-8BD5-2A64FE60C33E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40F41732-D6DA-4E70-8BD5-2A64FE60C33E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40F41732-D6DA-4E70-8BD5-2A64FE60C33E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40F41732-D6DA-4E70-8BD5-2A64FE60C33E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B32D934B-A1B6-43A9-B00E-EF1E686435EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B32D934B-A1B6-43A9-B00E-EF1E686435EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B32D934B-A1B6-43A9-B00E-EF1E686435EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B32D934B-A1B6-43A9-B00E-EF1E686435EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BEF57CD-73CE-485B-9D26-12D5AF516EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BEF57CD-73CE-485B-9D26-12D5AF516EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BEF57CD-73CE-485B-9D26-12D5AF516EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BEF57CD-73CE-485B-9D26-12D5AF516EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {329673FA-EDD7-40C5-9E28-9C66DEB9D21C}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/klokum
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Nutrition.BusinessLayer\\Nutrition.BusinessLayer.csproj
+		SccProjectName1 = Nutrition.BusinessLayer
+		SccLocalPath1 = Nutrition.BusinessLayer
+		SccProjectUniqueName2 = Nutrition.DataAccessLayer\\Nutrition.DataAccessLayer.csproj
+		SccProjectName2 = Nutrition.DataAccessLayer
+		SccLocalPath2 = Nutrition.DataAccessLayer
+		SccProjectUniqueName3 = Nutrition.Domain\\Nutrition.Domain.csproj
+		SccProjectName3 = Nutrition.Domain
+		SccLocalPath3 = Nutrition.Domain
+		SccProjectUniqueName4 = Nutrition.UI\\Nutrition.UI.csproj
+		SccProjectName4 = Nutrition.UI
+		SccLocalPath4 = Nutrition.UI
+	EndGlobalSection
+EndGlobal
